@@ -7,11 +7,10 @@ It is based on [compass-ceaser-easing extension](https://github.com/jhardy/compa
 Example
 ======================================
 
-@import "sass-easing/stylesheets/sass-easing";
-
-.transition {
-  transition: all 4.2s $easeInOutQuart;
-}
+    @import "sass-easing/stylesheets/sass-easing";
+    .transition {
+      transition: all 4.2s $easeInOutQuart;
+    }
 
 Notes
 ======================================
