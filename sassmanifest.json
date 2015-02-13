@@ -1,0 +1,5 @@
+{
+  "name": "Sass Easing",
+  "tags": ["transitions", "easing", "animations"],
+  "description" : "Basic easing equations for libsass."
+}
